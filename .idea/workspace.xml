@@ -1,0 +1,203 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="CMakePresetLoader">{
+  &quot;useNewFormat&quot;: true
+}</component>
+  <component name="CMakeReloadState">
+    <option name="reloaded" value="true" />
+  </component>
+  <component name="CMakeRunConfigurationManager">
+    <generated>
+      <config projectName="ft_ping" targetName="bonus" />
+      <config projectName="ft_ping" targetName="Makefile" />
+      <config projectName="ft_ping" targetName="silent" />
+      <config projectName="ft_ping" targetName="GNUmakefile" />
+      <config projectName="ft_ping" targetName="run" />
+      <config projectName="ft_ping" targetName="rc" />
+      <config projectName="ft_ping" targetName="re" />
+      <config projectName="ft_ping" targetName="makefile" />
+      <config projectName="ft_ping" targetName="fclean" />
+      <config projectName="ft_ping" targetName="all" />
+      <config projectName="ft_ping" targetName="header" />
+      <config projectName="ft_ping" targetName="ft_ping" />
+    </generated>
+  </component>
+  <component name="CMakeSettings" AUTO_RELOAD="true">
+    <configurations>
+      <configuration PROFILE_NAME="Debug-Docker" ENABLED="true" CONFIG_NAME="Debug" TOOLCHAIN_NAME="Docker" />
+    </configurations>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="3994b7bc-7309-4d1c-ae86-e5bfa9d54a17" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/ft_ping.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CMakeLists.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dockerfile" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Makefile" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ft_ping" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/includes/definitions.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/includes/ft_ping.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/includes/loop.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/includes/structures.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/objects/libs/get_next_line/get_next_line.o" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/objects/libs/get_next_line/get_next_line_utils.o" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/objects/srcs/handlers/int_handler.o" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/objects/srcs/main.o" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/objects/srcs/memory/memory.o" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/objects/srcs/params/help.o" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/objects/srcs/parsing/handle_params.o" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/objects/srcs/utils/utils.o" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/srcs/errors/errors.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/srcs/ft_ping.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/srcs/handlers/int_handler.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/srcs/main.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/srcs/memory/memory.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/srcs/network/checksum.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/srcs/network/dns.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/srcs/network/sockets.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/srcs/params/help.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/srcs/parsing/handle_params.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/srcs/utils/utils.c" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ClangdSettings">
+    <option name="formatViaClangd" value="false" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="CMakeBuildProfile:Debug-Docker" />
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTTP Request" />
+        <option value="CMakeLists.txt" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectApplicationVersion">
+    <option name="ide" value="CLion" />
+    <option name="majorVersion" value="2022" />
+    <option name="minorVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2FuAwEX7hJOcovcvLFb6ShOqgiW" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
+    "ASKED_SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.cidr.known.project.marker": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "cf.first.check.clang-format": "false",
+    "cidr.known.project.marker": "true",
+    "last_opened_file_path": "/Users/louislaurent/projects/ft_ping/libs",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "preferences.keymap",
+    "structure.view.defaults.are.configured": "true"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/libs" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/srcs/network" />
+      <recent name="$PROJECT_DIR$" />
+    </key>
+  </component>
+  <component name="RunManager" selected="CMake Application.ft_ping">
+    <configuration default="true" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ft_ping" type="CMakeRunConfiguration" factoryName="Application" nameIsGenerated="true" PROGRAM_PARAMS="$Prompt$" REDIRECT_INPUT="false" ELEVATE="true" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="ft_ping" TARGET_NAME="ft_ping" CONFIG_NAME="Debug-Docker" RUN_TARGET_PROJECT_NAME="ft_ping" RUN_TARGET_NAME="ft_ping">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Makefile" type="MAKEFILE_TARGET_RUN_CONFIGURATION" factoryName="Makefile" temporary="true">
+      <makefile filename="$PROJECT_DIR$/Makefile" target="run" workingDirectory="" arguments="">
+        <envs />
+      </makefile>
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="CMake Application.ft_ping" />
+      <item itemvalue="Makefile Target.Makefile" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Makefile Target.Makefile" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="3994b7bc-7309-4d1c-ae86-e5bfa9d54a17" name="Changes" comment="" />
+      <created>1665331832318</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1665331832318</updated>
+      <workItem from="1665331833736" duration="105000" />
+      <workItem from="1665331945117" duration="1097000" />
+      <workItem from="1665333053391" duration="85000" />
+      <workItem from="1665333177154" duration="232000" />
+      <workItem from="1665333476759" duration="1003000" />
+      <workItem from="1665334503128" duration="39000" />
+      <workItem from="1665334548177" duration="178000" />
+      <workItem from="1665334731763" duration="695000" />
+      <workItem from="1665335433647" duration="35391000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
+  </component>
+</project>

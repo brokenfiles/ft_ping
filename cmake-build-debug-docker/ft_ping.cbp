@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="ft_ping"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="gcc"/>
+		<Option virtualFolders="CMake Files\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="/tmp/ft_ping/cmake-build-debug-docker"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j5 -f &quot;/tmp/ft_ping/cmake-build-debug-docker/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="/usr/bin/make -j5 -f &quot;/tmp/ft_ping/cmake-build-debug-docker/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j5 -f &quot;/tmp/ft_ping/cmake-build-debug-docker/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j5 -f &quot;/tmp/ft_ping/cmake-build-debug-docker/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="/tmp/ft_ping/cmake-build-debug-docker"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j5 -f &quot;/tmp/ft_ping/cmake-build-debug-docker/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="/usr/bin/make -j5 -f &quot;/tmp/ft_ping/cmake-build-debug-docker/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j5 -f &quot;/tmp/ft_ping/cmake-build-debug-docker/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j5 -f &quot;/tmp/ft_ping/cmake-build-debug-docker/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="/tmp/ft_ping/cmake-build-debug-docker"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j5 -f &quot;/tmp/ft_ping/cmake-build-debug-docker/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="/usr/bin/make -j5 -f &quot;/tmp/ft_ping/cmake-build-debug-docker/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j5 -f &quot;/tmp/ft_ping/cmake-build-debug-docker/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j5 -f &quot;/tmp/ft_ping/cmake-build-debug-docker/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="ft_ping">
+				<Option output="/tmp/ft_ping/cmake-build-debug-docker/ft_ping" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/tmp/ft_ping/cmake-build-debug-docker"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/lib/gcc/aarch64-linux-gnu/9/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/include/aarch64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j5 -f &quot;/tmp/ft_ping/cmake-build-debug-docker/Makefile&quot;  VERBOSE=1 ft_ping"/>
+					<CompileFile command="/usr/bin/make -j5 -f &quot;/tmp/ft_ping/cmake-build-debug-docker/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j5 -f &quot;/tmp/ft_ping/cmake-build-debug-docker/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j5 -f &quot;/tmp/ft_ping/cmake-build-debug-docker/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="ft_ping/fast">
+				<Option output="/tmp/ft_ping/cmake-build-debug-docker/ft_ping" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/tmp/ft_ping/cmake-build-debug-docker"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/lib/gcc/aarch64-linux-gnu/9/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/include/aarch64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j5 -f &quot;/tmp/ft_ping/cmake-build-debug-docker/Makefile&quot;  VERBOSE=1 ft_ping/fast"/>
+					<CompileFile command="/usr/bin/make -j5 -f &quot;/tmp/ft_ping/cmake-build-debug-docker/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j5 -f &quot;/tmp/ft_ping/cmake-build-debug-docker/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j5 -f &quot;/tmp/ft_ping/cmake-build-debug-docker/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="/tmp/ft_ping/includes/definitions.h">
+			<Option target="ft_ping"/>
+		</Unit>
+		<Unit filename="/tmp/ft_ping/includes/ft_ping.h">
+			<Option target="ft_ping"/>
+		</Unit>
+		<Unit filename="/tmp/ft_ping/includes/loop.h">
+			<Option target="ft_ping"/>
+		</Unit>
+		<Unit filename="/tmp/ft_ping/includes/structures.h">
+			<Option target="ft_ping"/>
+		</Unit>
+		<Unit filename="/tmp/ft_ping/srcs/errors/errors.c">
+			<Option target="ft_ping"/>
+		</Unit>
+		<Unit filename="/tmp/ft_ping/srcs/ft_ping.c">
+			<Option target="ft_ping"/>
+		</Unit>
+		<Unit filename="/tmp/ft_ping/srcs/handlers/int_handler.c">
+			<Option target="ft_ping"/>
+		</Unit>
+		<Unit filename="/tmp/ft_ping/srcs/main.c">
+			<Option target="ft_ping"/>
+		</Unit>
+		<Unit filename="/tmp/ft_ping/srcs/memory/memory.c">
+			<Option target="ft_ping"/>
+		</Unit>
+		<Unit filename="/tmp/ft_ping/srcs/network/checksum.c">
+			<Option target="ft_ping"/>
+		</Unit>
+		<Unit filename="/tmp/ft_ping/srcs/network/dns.c">
+			<Option target="ft_ping"/>
+		</Unit>
+		<Unit filename="/tmp/ft_ping/srcs/network/sockets.c">
+			<Option target="ft_ping"/>
+		</Unit>
+		<Unit filename="/tmp/ft_ping/srcs/params/help.c">
+			<Option target="ft_ping"/>
+		</Unit>
+		<Unit filename="/tmp/ft_ping/srcs/parsing/handle_params.c">
+			<Option target="ft_ping"/>
+		</Unit>
+		<Unit filename="/tmp/ft_ping/srcs/utils/utils.c">
+			<Option target="ft_ping"/>
+		</Unit>
+		<Unit filename="/tmp/ft_ping/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>
